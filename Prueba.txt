@@ -2,3 +2,7 @@ El archivo Prueba.txt es un archivo de prueba.
 El contenido del archivo sufrirá algunos cambios.
 Nota que hay un error en la extensión del archivo de la linea 1.
 Más adelante vamos a resolver ese error.
+
+
+
+Linea agregada desde GitHub
